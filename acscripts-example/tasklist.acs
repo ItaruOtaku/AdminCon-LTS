@@ -1,0 +1,3 @@
+echo Running-Processes:
+lisp -M
+pause

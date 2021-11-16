@@ -1,0 +1,10 @@
+D:\AdminCon_CLI_dotnetEdition\bin\tools\ACDesktop.exe
+D:\AdminCon_CLI_dotnetEdition\bin\tools\ACDesktop.pdb
+D:\AdminCon_CLI_dotnetEdition\Modules\ACDesktop\obj\Release\AdminCon_Desktop.csproj.AssemblyReference.cache
+D:\AdminCon_CLI_dotnetEdition\Modules\ACDesktop\obj\Release\AdminCon_CLI_dotnetEdition.Modules.ACDesktop.Components.DesktopEnvironment.resources
+D:\AdminCon_CLI_dotnetEdition\Modules\ACDesktop\obj\Release\AdminCon_CLI_dotnetEdition.Modules.ACDesktop.Components.StartProcessDialogForm.resources
+D:\AdminCon_CLI_dotnetEdition\Modules\ACDesktop\obj\Release\AdminCon_CLI_dotnetEdition.Modules.ACDesktop.Properties.Resources.resources
+D:\AdminCon_CLI_dotnetEdition\Modules\ACDesktop\obj\Release\AdminCon_Desktop.csproj.GenerateResource.cache
+D:\AdminCon_CLI_dotnetEdition\Modules\ACDesktop\obj\Release\AdminCon_Desktop.csproj.CoreCompileInputs.cache
+D:\AdminCon_CLI_dotnetEdition\Modules\ACDesktop\obj\Release\ACDesktop.exe
+D:\AdminCon_CLI_dotnetEdition\Modules\ACDesktop\obj\Release\ACDesktop.pdb

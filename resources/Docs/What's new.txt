@@ -1,0 +1,38 @@
+##############################
+#   ADMINISTRATIVE CONSOLE   #
+#        .NET EDITION        #
+##############################
+             /|\
+            / | \
+           /  |  \                                                                                       AdminCon 4.0 .NET Edition
+          /   |   \
+         /    |    \                                                                                     Copyright (c) 2017-2021 Project Amadeus. All rights reserved
+        /     |     \
+       /      |      \                                                                                   "From small, comes GREAT." -Andrew.L.Kramer
+      /       |       \
+     /        |        \
+    /         |         \
+Version    Version   *Version*
+  2.0        3.0     *  4.0  *----->(Current Version. Built in 2021-5)
+   |          |      *********
+   |          |
+   |          |
+UI only,    CLI + UI,
+Basic       Process
+Process     Management &
+Management  Disk Operations
+Utilities.
+                                                                                                   "View the source code
+                                                                                                     to get more info!"
+                                                                                                     /
+----------------------------------------------------------------------------------------------------/
+                                                                                                   |
+What's New in AC4:                                                                                 |
+1. Process Quering Method is optimized, which increased the search speed by more than *100* times. |
+2. We've also added different modes in AC, such as "Safe mode" and "Win32 mode".                   |
+3. The Process Managing API has been fixed and improved in following aspects:                      |
+   - Added: Kernel Processes Protection Module;                                                    |
+   - Added: Processes Memory Usage Module;                                                         |
+   - Fixed: Processes Quering Module.                                                              |
+                                                                                                   |
+----------------------------------------------------------------------------------------------------

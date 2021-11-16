@@ -1,0 +1,9 @@
+[TOOL REGISTRY]
+# Format: {program-filename,command}
+# Not Case Sensitive.
+{acwin32.exe,acw32}
+{hexviewer.exe,hex}
+{acwatchdog.exe,watchdog}
+{dclock.exe,dclock}
+{webviewer.exe,acweb}
+{acdesktop.exe,desktop}

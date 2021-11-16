@@ -1,0 +1,9 @@
+               # AdminCon 3.0 Edition #
+# (c) 2017-2021 Project Amadeus. All rights reserved. #
+
+Parameters:
+
+-s    Safe mode
+-ui   UI Only
+-h    Show help
+/?    Show help

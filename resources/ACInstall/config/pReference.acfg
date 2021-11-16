@@ -1,0 +1,8 @@
+[PROCESS REFERENCE]
+
+# {Process-name,Ref-code}
+# Example: in this case, you can kill securityhealthservice.exe by typing "kill /s shs" instead of "kill /s securityhealthservice"
+{securityhealthservice,shs}
+
+{conhost,con}
+{explorer,exp}

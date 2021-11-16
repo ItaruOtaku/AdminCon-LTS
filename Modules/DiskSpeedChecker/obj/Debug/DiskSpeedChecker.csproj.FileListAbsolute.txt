@@ -1,0 +1,7 @@
+D:\AdminCon_CLI_dotnetEdition\bin\tools\DClock.exe
+D:\AdminCon_CLI_dotnetEdition\bin\tools\DClock.pdb
+D:\AdminCon_CLI_dotnetEdition\Modules\DiskSpeedChecker\obj\Debug\DiskSpeedChecker.csproj.AssemblyReference.cache
+D:\AdminCon_CLI_dotnetEdition\Modules\DiskSpeedChecker\obj\Debug\DiskSpeedChecker.csproj.CoreCompileInputs.cache
+D:\AdminCon_CLI_dotnetEdition\Modules\DiskSpeedChecker\obj\Debug\DiskSpeedChecker.csproj.CopyComplete
+D:\AdminCon_CLI_dotnetEdition\Modules\DiskSpeedChecker\obj\Debug\DClock.exe
+D:\AdminCon_CLI_dotnetEdition\Modules\DiskSpeedChecker\obj\Debug\DClock.pdb

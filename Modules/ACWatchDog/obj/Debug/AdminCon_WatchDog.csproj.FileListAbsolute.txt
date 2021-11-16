@@ -1,0 +1,7 @@
+D:\AdminCon_CLI_dotnetEdition\bin\tools\ACWatchDog.exe
+D:\AdminCon_CLI_dotnetEdition\bin\tools\ACWatchDog.pdb
+D:\AdminCon_CLI_dotnetEdition\Modules\ACWatchDog\obj\Debug\AdminCon_WatchDog.csproj.AssemblyReference.cache
+D:\AdminCon_CLI_dotnetEdition\Modules\ACWatchDog\obj\Debug\AdminCon_WatchDog.csproj.CoreCompileInputs.cache
+D:\AdminCon_CLI_dotnetEdition\Modules\ACWatchDog\obj\Debug\AdminCon_WatchDog.csproj.CopyComplete
+D:\AdminCon_CLI_dotnetEdition\Modules\ACWatchDog\obj\Debug\ACWatchDog.exe
+D:\AdminCon_CLI_dotnetEdition\Modules\ACWatchDog\obj\Debug\ACWatchDog.pdb

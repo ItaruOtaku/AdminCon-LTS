@@ -1,0 +1,11 @@
+D:\AdminCon_CLI_dotnetEdition\Modules\HexViewer\bin\Debug\HexViewer.exe
+D:\AdminCon_CLI_dotnetEdition\Modules\HexViewer\bin\Debug\HexViewer.pdb
+D:\AdminCon_CLI_dotnetEdition\Modules\HexViewer\obj\Debug\HexViewer.csproj.AssemblyReference.cache
+D:\AdminCon_CLI_dotnetEdition\Modules\HexViewer\obj\Debug\HexViewer.Properties.Resources.resources
+D:\AdminCon_CLI_dotnetEdition\Modules\HexViewer\obj\Debug\HexViewer.csproj.GenerateResource.cache
+D:\AdminCon_CLI_dotnetEdition\Modules\HexViewer\obj\Debug\HexViewer.csproj.CoreCompileInputs.cache
+D:\AdminCon_CLI_dotnetEdition\Modules\HexViewer\obj\Debug\HexViewer.exe
+D:\AdminCon_CLI_dotnetEdition\Modules\HexViewer\obj\Debug\HexViewer.pdb
+D:\AdminCon_CLI_dotnetEdition\bin\tools\HexViewer.exe
+D:\AdminCon_CLI_dotnetEdition\bin\tools\HexViewer.pdb
+D:\AdminCon_CLI_dotnetEdition\Modules\HexViewer\obj\Debug\AdminCon_CLI_dotnetEdition.Modules.HexViewer.MainForm.resources

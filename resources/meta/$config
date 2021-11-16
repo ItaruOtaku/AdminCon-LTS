@@ -1,0 +1,13 @@
+   name: admincon
+
+version: 4.1.0.12
+
+.netenv: [.NETFW4.0][.NETCORE2.1]
+
+  osenv: [WinNT8.1]
+
+usrpriv: this.administrator
+
+srcctrl: [Git][Azure][LocalRepo]
+
+vercode: Build-4.1.0.12<2021-3>@Windows_NT_10.0.19403.0|AdminCon

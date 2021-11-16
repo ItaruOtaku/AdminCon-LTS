@@ -1,0 +1,21 @@
+               # AdminCon 3.0 Edition #
+# (c) 2017-2021 Project Amadeus. All rights reserved. #
+
+
+Available Commands:
+
+KILL   -   Kill a running process.
+RUN    -   Start a process.
+TIME   -   Show current system time.
+GETPID -   Get process id by its name.
+PING   -   Send TCP packages to a specific IP Address or domain. *
+CLS    -   Clear the console.
+LISP   -   List all processes.
+WINFO  -   Print infomation of your Windows PC.
+FDISK  -   Format a specified drive. *
+DFRG   -   Defrag a specified drive. *
+QT     -   QT - Quit or restart this program. *
+UI     -   Open a window with graphical interface. *
+
+All commands are not case-sensitive.
+*: This command is not available in safemode.

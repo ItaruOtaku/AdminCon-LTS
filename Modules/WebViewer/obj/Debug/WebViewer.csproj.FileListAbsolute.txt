@@ -1,0 +1,9 @@
+D:\AdminCon_CLI_dotnetEdition\bin\tools\WebViewer.exe
+D:\AdminCon_CLI_dotnetEdition\bin\tools\WebViewer.pdb
+D:\AdminCon_CLI_dotnetEdition\Modules\WebViewer\obj\Debug\WebViewer.csproj.AssemblyReference.cache
+D:\AdminCon_CLI_dotnetEdition\Modules\WebViewer\obj\Debug\AdminCon_CLI_dotnetEdition.Modules.WebViewer.MainForm.resources
+D:\AdminCon_CLI_dotnetEdition\Modules\WebViewer\obj\Debug\AdminCon_CLI_dotnetEdition.Modules.WebViewer.Properties.Resources.resources
+D:\AdminCon_CLI_dotnetEdition\Modules\WebViewer\obj\Debug\WebViewer.csproj.GenerateResource.cache
+D:\AdminCon_CLI_dotnetEdition\Modules\WebViewer\obj\Debug\WebViewer.csproj.CoreCompileInputs.cache
+D:\AdminCon_CLI_dotnetEdition\Modules\WebViewer\obj\Debug\WebViewer.exe
+D:\AdminCon_CLI_dotnetEdition\Modules\WebViewer\obj\Debug\WebViewer.pdb

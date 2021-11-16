@@ -1,0 +1,7 @@
+echo System-Info:
+winfo
+echo Memory-Usages:
+perfstat
+beep
+time
+pause
